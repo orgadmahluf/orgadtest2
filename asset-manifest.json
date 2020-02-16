@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/.github.io/orgadtest2/static/css/main.d1b05096.chunk.css",
-    "main.js": "/.github.io/orgadtest2/static/js/main.e7d18ad1.chunk.js",
-    "main.js.map": "/.github.io/orgadtest2/static/js/main.e7d18ad1.chunk.js.map",
-    "runtime-main.js": "/.github.io/orgadtest2/static/js/runtime-main.932ccedb.js",
-    "runtime-main.js.map": "/.github.io/orgadtest2/static/js/runtime-main.932ccedb.js.map",
-    "static/js/2.8630bd14.chunk.js": "/.github.io/orgadtest2/static/js/2.8630bd14.chunk.js",
-    "static/js/2.8630bd14.chunk.js.map": "/.github.io/orgadtest2/static/js/2.8630bd14.chunk.js.map",
-    "index.html": "/.github.io/orgadtest2/index.html",
-    "precache-manifest.b93de40e6ce371a0e3610866baa77139.js": "/.github.io/orgadtest2/precache-manifest.b93de40e6ce371a0e3610866baa77139.js",
-    "service-worker.js": "/.github.io/orgadtest2/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/.github.io/orgadtest2/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.8630bd14.chunk.js.LICENSE.txt": "/.github.io/orgadtest2/static/js/2.8630bd14.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/.github.io/orgadtest2/static/media/logo.5d5d9eef.svg"
+    "main.css": "/orgadtest2/static/css/main.d1b05096.chunk.css",
+    "main.js": "/orgadtest2/static/js/main.f96d3f71.chunk.js",
+    "main.js.map": "/orgadtest2/static/js/main.f96d3f71.chunk.js.map",
+    "runtime-main.js": "/orgadtest2/static/js/runtime-main.1451795b.js",
+    "runtime-main.js.map": "/orgadtest2/static/js/runtime-main.1451795b.js.map",
+    "static/js/2.8630bd14.chunk.js": "/orgadtest2/static/js/2.8630bd14.chunk.js",
+    "static/js/2.8630bd14.chunk.js.map": "/orgadtest2/static/js/2.8630bd14.chunk.js.map",
+    "index.html": "/orgadtest2/index.html",
+    "precache-manifest.261122d4737982dd1f3c5a1d86d403f2.js": "/orgadtest2/precache-manifest.261122d4737982dd1f3c5a1d86d403f2.js",
+    "service-worker.js": "/orgadtest2/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/orgadtest2/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8630bd14.chunk.js.LICENSE.txt": "/orgadtest2/static/js/2.8630bd14.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/orgadtest2/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.932ccedb.js",
+    "static/js/runtime-main.1451795b.js",
     "static/js/2.8630bd14.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e7d18ad1.chunk.js"
+    "static/js/main.f96d3f71.chunk.js"
   ]
 }
